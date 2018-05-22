@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Drone1: MyString
+  Drone2: MyString
+  Drone3: MyString
+  Drone4: MyString
+  Drone5: MyString
+
+two:
+  Drone1: MyString
+  Drone2: MyString
+  Drone3: MyString
+  Drone4: MyString
+  Drone5: MyString
